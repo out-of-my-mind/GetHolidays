@@ -1,0 +1,5 @@
+D:\Learn\upcsslink\SQLLibrary\bin\Debug\SQLLibrary.dll
+D:\Learn\upcsslink\SQLLibrary\bin\Debug\SQLLibrary.pdb
+D:\Learn\upcsslink\SQLLibrary\obj\Debug\SQLLibrary.csprojResolveAssemblyReference.cache
+D:\Learn\upcsslink\SQLLibrary\obj\Debug\SQLLibrary.dll
+D:\Learn\upcsslink\SQLLibrary\obj\Debug\SQLLibrary.pdb
