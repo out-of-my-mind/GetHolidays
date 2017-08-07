@@ -34,3 +34,6 @@ D:\Learn\upcsslink\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarSer
 D:\Learn\upcsslink\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarService.csproj.GenerateResource.Cache
 D:\Learn\upcsslink\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarService.exe
 D:\Learn\upcsslink\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarService.pdb
+D:\Learn\GetHolidays\WindowFormCalendarService\bin\Debug\WindowFormCalendarService.exe.config
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarService.exe
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Debug\WindowFormCalendarService.pdb
