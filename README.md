@@ -3,8 +3,8 @@
 >##### 这个项目是个Window窗口应用程序，使用爬虫来获取网络上的法定节假日信息，从而保存进数据库。之后根据节假日信息得出工作日时间，满足某些特定场合对时间的需求。
 
 #### 文件结构
->SQLLibrary
->>Class1.cs 
+>SQLLibrary  //后期打算放一些数据库封装
+>>Class1.cs  //暂时为空
 >
 >WindowFormCalendarService
 >>Form1.cs    //主窗口，负责爬虫，保存进数据库
