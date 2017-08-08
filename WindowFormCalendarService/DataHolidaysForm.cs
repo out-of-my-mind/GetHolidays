@@ -20,7 +20,12 @@ namespace LIEZHONG.CalendarService
         private void DataHolidaysForm_Load(object sender, EventArgs e)
         {
             string sqlconn = @"Data Source =db\test.db; Pooling = true; FailIfMissing = false";
-            string sqlstr = "select * from specialdays";
+            string sqlstr = @"CREATE TABLE IF NOT EXISTS specialdays (  
+                         id INTEGER PRIMARY KEY AUTOINCREMENT,   
+                         name TEXT,  
+                         age REAL,  
+                         label TEXT,  
+                         create_time TEXT); select * from specialdays;";
             SQLiteConnection SQLiteConn = new SQLiteConnection(sqlconn);
             SQLiteConn.Open();
             SQLiteCommand SQLiteCmd = SQLiteConn.CreateCommand();

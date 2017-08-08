@@ -1,0 +1,5 @@
+D:\Learn\GetHolidays\WindowFormCalendarService\bin\Release\WindowFormCalendarService.exe.config
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Release\LIEZHONG.CalendarService.DataHolidaysForm.resources
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Release\LIEZHONG.CalendarService.Form1.resources
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Release\WindowFormCalendarService.Properties.Resources.resources
+D:\Learn\GetHolidays\WindowFormCalendarService\obj\x86\Release\WindowFormCalendarService.csproj.GenerateResource.Cache
