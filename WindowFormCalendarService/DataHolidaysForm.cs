@@ -42,6 +42,8 @@ namespace LIEZHONG.CalendarService
                 mylist.Add(myholidaymode);
             }
             dataGridView1.DataSource = mylist.OrderBy(o=>o.放假时间).ToList();
+            SQLiteConn.Close();
+            SQLiteCmd.Dispose();
         }
         private class holidaymode
         {
